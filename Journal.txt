@@ -1,0 +1,2 @@
+23-Aug
+Today's class was about VCS and basic commands on git
